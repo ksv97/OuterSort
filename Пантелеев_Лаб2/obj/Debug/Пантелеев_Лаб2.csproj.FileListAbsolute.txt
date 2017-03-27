@@ -1,0 +1,14 @@
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\bin\Debug\Пантелеев_Лаб2.exe.config
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\bin\Debug\Пантелеев_Лаб2.exe
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\bin\Debug\Пантелеев_Лаб2.pdb
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.csprojResolveAssemblyReference.cache
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\MainWindow.g.cs
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\App.g.cs
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2_MarkupCompile.cache
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2_MarkupCompile.lref
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\MainWindow.baml
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.g.resources
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.Properties.Resources.resources
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.csproj.GenerateResource.Cache
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.exe
+D:\VS 2017 Projects\Пантелеев_Лаб2\Пантелеев_Лаб2\obj\Debug\Пантелеев_Лаб2.pdb
